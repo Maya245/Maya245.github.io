@@ -8,11 +8,12 @@ redirect_from:
 
 <img src="/assets/images/banner.png" alt="Theoretical and Computational Chemistry Research" style="width:100%; border-radius:10px; margin-bottom:30px;">
 
+Hi there! I am a Postdoctoral Research Scholar in the Department of Chemistry at North Carolina State University, working in Prof. Elena Jakubikova’s group. My current research focuses on understanding the photochemistry and photophysical properties of transition-metal complexes using computational chemistry. I investigate electronic structures, excited states, light-driven processes, and reaction mechanisms using first-principles methods, including density functional theory (DFT) and time-dependent DFT (TD-DFT). My research lies at the intersection of theoretical chemistry, computational photochemistry, and materials chemistry, with the goal of developing molecular-level insights into light-induced chemical processes.
 
-Hi there ! I am a Postdoctoral Research Scholar. My research lies at the interface of theoretical chemistry, computational chemistry, and nanoscience, focusing on applying first-principles methods to understand the structure, stability, and electronic properties of atomically precise nanoclusters.
 
 ## Research Interests
 
+- Photochemistry of Transition Metal Complexes
 - Automated Chemical Space Exploration
 - Global Optimization of Nanoclusters
 - Density Functional Theory (DFT)
@@ -35,9 +36,12 @@ Hi there ! I am a Postdoctoral Research Scholar. My research lies at the interfa
 
 ## News & Updates
 
+- **2026** Joined **NC State University, USA**, as a Postdoctoral Research Scholar in the Department of Chemistry.
 - **2026** Published in *ACS Physical Chemistry Au*
 - **2024** Received the **RSC Nanoscale Horizons Best Poster Award** at the 7th International Symposium on Monolayer-Protected Clusters (ISMPC 2024), held at Pennsylvania State University, USA. 
   [Read more →](https://blogs.rsc.org/nr/2024/07/11/ismpc-2024-poster-prize-winners/)
+- **2023** Joined the **University of Jyväskylä, Finland**, as a Postdoctoral Researcher at the Nanoscience Center, Department of Physics.
+- **2023** Successfully defended my PhD in Chemistry at **IIT Kharagpur**, India.
 
 ## Contact
 
@@ -45,7 +49,7 @@ Hi there ! I am a Postdoctoral Research Scholar. My research lies at the interfa
 
 <span>
 <i class="fas fa-envelope"></i>
-<a href="mailto:mayakhatun429@gmail.com">Email</a>
+<a href="mailto:mkhatun@ncsu.edu">Email</a>
 </span>
 
 &nbsp;&nbsp;&nbsp;
