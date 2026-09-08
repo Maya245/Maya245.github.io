@@ -1,18 +1,14 @@
-{% include base_path %}
+{% else %}
 
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  {% assign publications = site.publications | sort: "date" | reverse %}
+  {% assign total_publications = publications.size %}
 
-  <h2 class="archive__item-title" itemprop="headline">
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-      {{ post.title }}
-    </a>
-  </h2>
+  {% for post in publications %}
+      <div>
+        <strong>{{ total_publications }}.</strong>
+        {% include archive-publication-numbered.html %}
+      </div>
+      {% assign total_publications = total_publications | minus: 1 %}
+  {% endfor %}
 
-  {% if post.collection == 'publications' %}
-    <p>
-      Published in <i>{{ post.venue }}</i>, 
-      {{ post.date | default: "1900-01-01" | date: "%Y" }}
-    </p>
-  {% endif %}
-
-</article>
+{% endif %}
